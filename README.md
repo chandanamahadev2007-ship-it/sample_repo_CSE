@@ -1,2 +1,2 @@
 # sample_repo_CSE
-rebasing
+First commit from remote
